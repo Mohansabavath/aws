@@ -1,0 +1,27 @@
+1) Create on Bash script to check if a directory is available or not.
+
+2) Create a bash script which will create multiple files.
+
+3) Create a bash script to take backup of a directory.
+
+4) Create a bash script to install nginx in ec2 server.
+
+5) Create a bash script to install ApacheTomcat in ec2 server.
+
+6) Create a bash script to check list if nginx service is running or not,if not running
+   then script should start the service.
+   
+7) Create a bash script for calculator.
+
+8) Create a bash script to check if directory is avaialble or not,if not then create a directory.
+
+9) Create bash script to delete last 3 lines for a file.
+
+Exercise Crontab Entries : 
+1) April 5th Midnight
+ 2) 5 th of Every November,Jan,June if it is a Thursday. 
+3) At 05 and 27th minutes of 9,10,11 hours everyday. 
+4) 15th second of 34 min. of 9th hour on 15th Aug. 
+5) Every midnight 
+6) Every Weekend ( Saturday night 11.59 ) 
+7) After every reboot
